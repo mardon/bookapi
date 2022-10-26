@@ -39,4 +39,3 @@ class BookCategoryRepository extends ServiceEntityRepository
         }
     }
 }
-
